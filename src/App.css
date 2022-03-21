@@ -13,8 +13,9 @@ html, body {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  flex-direction: column;
   justify-content: center;
-  padding-top: 15px;
+  padding-top: 60px;
   font-family: Lato,sans-serif;
 
 }
@@ -23,6 +24,7 @@ h1{
   color: #fff;
   text-align: center;
   margin-bottom: 15px;
+  
 }
 .logo-contenedor {
   width: 100%;
